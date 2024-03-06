@@ -1,3 +1,7 @@
+#Manage your todo's
+This simple application is used to manage your todos and provide access to edit and delete the todos
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
